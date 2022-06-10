@@ -1,10 +1,7 @@
-## Hi! It's me, André Michelle
+### Hi! It's me, André Michelle
 
 I am originator, co-founder and cto of [audiotool.com](https://audiotool.com), a free online digital audio workstation.
 Here you find some of my personal scribbles, fiddles and prototypes.
-
-### Upcoming events
-* [WAC2022 | 7th International Web Audio conference](https://wac2022.i3s.univ-cotedazur.fr/node/9)
 
 ### Social
 * [LinkedIn](https://www.linkedin.com/in/andremichelle/)
@@ -14,6 +11,9 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [Bandcamp](https://andremichelle.bandcamp.com/)
 * [SoundCloud](https://soundcloud.com/andremichelle)
 * [MixCloud](https://www.mixcloud.com/AndreMichelle/)
+
+### Upcoming events
+* [WAC2022 | 7th International Web Audio conference](https://wac2022.i3s.univ-cotedazur.fr/node/9)
 
 ### Works
 ![alt works](works.png)
