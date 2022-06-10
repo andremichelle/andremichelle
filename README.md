@@ -1,5 +1,9 @@
-![alt works](works.png)
+## Hi! It's me, André Michelle
 
+I am originator, co-founder and cto of [audiotool.com](https://audiotool.com), a free online digital audio workstation.
+Here you find some of my personal scribbles, fiddles and prototypes.
+
+![alt works](works.png)
 * [tonematrix](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
 * [rotary](https://github.com/andremichelle/rotary) | Generation of randomized hud-circles with sound and fx
 * [radar](https://github.com/andremichelle/radar) | Webversion of the loop-radar (Flash on the beach 2009)
