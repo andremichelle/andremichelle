@@ -25,6 +25,10 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [atomix](https://github.com/andremichelle/filaments) | A repainted web-version of the classic C64 puzzle game Atomix | [Youtube](https://www.youtube.com/watch?v=Tgn_2__t9_Y)
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
 
+### Tools
+* [Web Audio Api | Automator](https://github.com/andremichelle/web-audio-api-automator)
+* [Tileset extractor](https://github.com/andremichelle/platforms)
+
 
 
 
