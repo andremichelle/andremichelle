@@ -24,7 +24,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [filaments](https://github.com/andremichelle/filaments) | Pretty filaments
 * [atomix](https://github.com/andremichelle/filaments) | A repainted web-version of the classic C64 puzzle game Atomix | [Youtube](https://www.youtube.com/watch?v=Tgn_2__t9_Y)
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
-* [css-909]([https://andremichelle.github.io/css-909/](https://github.com/andremichelle/css-909)) | CSS & SVG TR-909 drum-machine
+* [css-909](https://github.com/andremichelle/css-909) | CSS & SVG TR-909 drum-machine
 
 ### Tools
 * [Web Audio Api | Automator](https://github.com/andremichelle/web-audio-api-automator)
