@@ -19,6 +19,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 ![alt works](works.png)
 * [tonematrix](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
 * [pulsate](https://github.com/andremichelle/pulsate) | A soothing audio experiment
+* [tonewheels](https://github.com/andremichelle/tonewheels) | Wheel based sequencer
 * [rotary](https://github.com/andremichelle/rotary) | Generation of randomized hud-circles with sound and fx
 * [radar](https://github.com/andremichelle/radar) | Webversion of the loop-radar (Flash on the beach 2009)
 * [chromaflow](https://github.com/andremichelle/chromaflow) | An abandoned audio modular system
