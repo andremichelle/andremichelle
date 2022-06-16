@@ -3,18 +3,6 @@
 I am originator, co-founder and cto of [audiotool.com](https://audiotool.com), a free online digital audio workstation.
 Here you find some of my personal scribbles, fiddles and prototypes.
 
-### Social
-* [LinkedIn](https://www.linkedin.com/in/andremichelle/)
-* [Instagram](https://www.instagram.com/ndrmch2l/)
-* [Twitter](https://twitter.com/andremichelle)
-* [Audiotool](https://www.audiotool.com/user/andremichelle/)
-* [Bandcamp](https://andremichelle.bandcamp.com/)
-* [SoundCloud](https://soundcloud.com/andremichelle)
-* [MixCloud](https://www.mixcloud.com/AndreMichelle/)
-
-### Upcoming events
-* [WAC2022 | 7th International Web Audio conference](https://wac2022.i3s.univ-cotedazur.fr/node/9)
-
 ### Works
 ![alt works](works.png)
 * [tonematrix](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
@@ -32,6 +20,14 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [Web Audio Api | Automator](https://github.com/andremichelle/web-audio-api-automator)
 * [Tileset extractor](https://github.com/andremichelle/platforms)
 
+### Social
+* [LinkedIn](https://www.linkedin.com/in/andremichelle/)
+* [Instagram](https://www.instagram.com/ndrmch2l/)
+* [Twitter](https://twitter.com/andremichelle)
+* [Audiotool](https://www.audiotool.com/user/andremichelle/)
+* [Bandcamp](https://andremichelle.bandcamp.com/)
+* [SoundCloud](https://soundcloud.com/andremichelle)
+* [MixCloud](https://www.mixcloud.com/AndreMichelle/)
 
-
-
+### Upcoming events
+* [WAC2022 | 7th International Web Audio conference](https://wac2022.i3s.univ-cotedazur.fr/node/9)
