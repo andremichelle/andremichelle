@@ -5,9 +5,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 
 ### Works
 ![alt works](works.png)
-* [tonematrix](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
-* [pulsate](https://github.com/andremichelle/pulsate) | A soothing audio experiment
-* [tonewheels](https://github.com/andremichelle/tonewheels) | Wheel based sequencer
+* [circle modulation](https://github.com/andremichelle/circle-modulation) | Using circles as parameter modulation source
 * [rotary](https://github.com/andremichelle/rotary) | Generation of randomized hud-circles with sound and fx
 * [radar](https://github.com/andremichelle/radar) | Webversion of the loop-radar (Flash on the beach 2009)
 * [chromaflow](https://github.com/andremichelle/chromaflow) | An abandoned audio modular system
@@ -15,6 +13,11 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [atomix](https://github.com/andremichelle/filaments) | A repainted web-version of the classic C64 puzzle game Atomix | [Youtube](https://www.youtube.com/watch?v=Tgn_2__t9_Y)
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
 * [css-909](https://github.com/andremichelle/css-909) | CSS & SVG TR-909 drum-machine
+
+### Vintage Flash Ports
+* [tonematrix](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
+* [pulsate](https://github.com/andremichelle/pulsate) | A soothing audio experiment
+* [tonewheels](https://github.com/andremichelle/tonewheels) | Wheel based sequencer
 
 ### Tools
 * [Web Audio Api | Automator](https://github.com/andremichelle/web-audio-api-automator)
