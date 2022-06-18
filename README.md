@@ -12,7 +12,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [chromaflow](https://github.com/andremichelle/chromaflow) | An abandoned audio modular system
 * [filaments](https://github.com/andremichelle/filaments) | Pretty filaments
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
-* [css-909](https://github.com/andremichelle/css-909) | CSS & SVG TR-909 drum-machine
+* [vector-909](https://github.com/andremichelle/vector-909) | 100% vector design, css & svg drum-machine (no sound)
 
 ### Vintage Flash Ports
 * [tonematrix](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
