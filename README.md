@@ -36,6 +36,3 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [Bandcamp](https://andremichelle.bandcamp.com/)
 * [SoundCloud](https://soundcloud.com/andremichelle)
 * [MixCloud](https://www.mixcloud.com/AndreMichelle/)
-
-### Upcoming events
-* [WAC2022 | 7th International Web Audio conference](https://wac2022.i3s.univ-cotedazur.fr/node/9)
