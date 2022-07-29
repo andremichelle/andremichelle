@@ -7,6 +7,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 ![alt works](works.png)
 
 ### Projects
+* [malachite eq](https://github.com/andremichelle/malachite)
 * [circle modulation](https://github.com/andremichelle/circle-modulation) | Using circles as parameter modulation source
 * [rotary](https://github.com/andremichelle/rotary) | Generation of randomized hud-circles with sound and fx
 * [chromaflow](https://github.com/andremichelle/chromaflow) | An abandoned audio modular system
