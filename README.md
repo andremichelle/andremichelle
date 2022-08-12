@@ -7,7 +7,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 ![alt works](works.png)
 
 ### Projects
-* [tr-909 🔊](https://github.com/andremichelle/tr-909) | 100% (Goal) emulated Roland TR-909 drumcomputer clone 🧨 
+* [tr-909 🔊](https://github.com/andremichelle/tr-909) | Emulated Roland TR-909 drumcomputer 🧨 
 * [malachite audio filter bank 🔊](https://github.com/andremichelle/malachite) | An interative audio eq demo with graphics by [ui mother](https://uimother.com/)
 * [circle modulation 🔊](https://github.com/andremichelle/circle-modulation) | Using circles as parameter modulation source
 * [rotary 🔊](https://github.com/andremichelle/rotary) | Generation of randomized hud-circles with sound and fx
