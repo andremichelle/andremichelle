@@ -14,6 +14,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [chromaflow 🔊](https://github.com/andremichelle/chromaflow) | An abandoned audio modular system
 * [filaments](https://github.com/andremichelle/filaments) | Pretty filaments
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
+* [speech scheduler](https://github.com/andremichelle/speech-scheduler) | Use the [web-speech api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) to create spoken turorials with events and user-interaction
 
 ### Vintage Flash Ports
 * [tonematrix 🔊](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
