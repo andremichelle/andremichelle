@@ -25,6 +25,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 ### Tooling
 * [Web Audio Api | Automator Editor](https://github.com/andremichelle/web-audio-api-automator)
 * [Tileset extractor](https://github.com/andremichelle/platforms)
+* [XBM Editor](https://andremichelle.github.io/xbm-editor/)
 
 ### Games
 * [atomix 🕹](https://github.com/andremichelle/filaments) | A repainted web-version of the classic C64 puzzle game Atomix | [Youtube](https://www.youtube.com/watch?v=Tgn_2__t9_Y)
