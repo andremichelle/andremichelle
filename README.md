@@ -28,7 +28,7 @@ Here you find some of my personal scribbles, fiddles and prototypes.
 * [XBM Editor](https://github.com/andremichelle/xbm-editor)
 
 ### Games
-* [atomix 🕹](https://github.com/andremichelle/filaments) | A repainted web-version of the classic C64 puzzle game Atomix | [Youtube](https://www.youtube.com/watch?v=Tgn_2__t9_Y)
+* [atomix 🕹](https://github.com/andremichelle/atomix) | A repainted web-version of the classic C64 puzzle game Atomix | [Youtube](https://www.youtube.com/watch?v=Tgn_2__t9_Y)
 * [setera 🕹](https://github.com/andremichelle/setara) | A mutliplayer tablet version of [SET](https://en.wikipedia.org/wiki/Set_(card_game))
 
 ### Social
