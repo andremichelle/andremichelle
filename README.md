@@ -6,12 +6,14 @@ I'm actively seeking new career opportunities where I can leverage my 15 years o
 
 Besides my tech know-how on web technologies and essential digital signal processing, I've navigated the complexities of large application infrastructures and understand how to keep things scalable. While I can still code cleanly and rigorously test in various web languages, what truly sets me apart is my ability to transform ideas into code and user-friendly experiences (UX). I also consider myself a supportive team leader, giving everybody the mindfulness to deliver better output.
 
-I'm eager to bring my wealth of experience and passion for innovation to a new professional challenge. Contact me on linkedin (link below).
+I'm eager to bring my wealth of experience and passion for innovation to a new professional challenge. 
 
-### Shots
+Contact me on [LinkedIn](https://www.linkedin.com/in/andremichelle/).
+
+## Works
 ![alt works](works.png)
 
-### Projects
+### Sketches
 * [tr-909 🔊](https://github.com/andremichelle/tr-909) | Emulated Roland TR-909 drumcomputer 🧨 
 * [malachite audio filter bank 🔊](https://github.com/andremichelle/malachite) | An interative audio eq demo with graphics by [ui mother](https://uimother.com/)
 * [circle modulation 🔊](https://github.com/andremichelle/circle-modulation) | Using circles as parameter modulation source
@@ -21,7 +23,7 @@ I'm eager to bring my wealth of experience and passion for innovation to a new p
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
 * [speech scheduler](https://github.com/andremichelle/speech-scheduler) | Use the [web-speech api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) to create spoken turorials with events and user-interaction
 
-### Vintage Flash Ports
+### Vintage Ports
 * [tonematrix 🔊](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
 * [pulsate 🔊](https://github.com/andremichelle/pulsate) | A soothing audio experiment
 * [tonewheels 🔊](https://github.com/andremichelle/tonewheels) | Wheel based sequencer
