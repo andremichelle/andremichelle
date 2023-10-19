@@ -35,8 +35,6 @@ Here you find some of my personal scribbles, fiddles and prototypes. All running
 ### Social
 * [LinkedIn](https://www.linkedin.com/in/andremichelle/)
 * [Instagram](https://www.instagram.com/ndrmch2l/)
-* [Twitter](https://twitter.com/andremichelle)
-* [Audiotool](https://www.audiotool.com/user/andremichelle/)
 * [Bandcamp](https://andremichelle.bandcamp.com/)
 * [SoundCloud](https://soundcloud.com/andremichelle)
 * [MixCloud](https://www.mixcloud.com/AndreMichelle/)
