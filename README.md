@@ -1,8 +1,8 @@
 ### Hi! It's me, André Michelle
 
-I am co-founder and cto of [audiotool.com](https://audiotool.com), a free online digital audio workstation.
+I am originator and co-founder of [audiotool.com](https://audiotool.com), a free online digital audio workstation.
 
-Here you find some of my personal scribbles, fiddles and prototypes.
+Here you find some of my personal scribbles, fiddles and prototypes. All running inside your browser.
 
 ### Shots
 ![alt works](works.png)
