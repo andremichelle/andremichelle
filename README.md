@@ -2,7 +2,11 @@
 
 I am originator and co-founder of [audiotool.com](https://audiotool.com), a free online digital audio workstation.
 
-Here you find some of my personal scribbles, fiddles and prototypes. All running inside your browser.
+I'm actively seeking new career opportunities where I can leverage my 15 years of hands-on experience as the originator and lead developer at audiotool.com, a venture where I played a pivotal role in shaping the overall concept and driving its development. In addition to this, I bring over 25 years of experience as a programmer and digital artist to the table.
+
+Besides my tech know-how on web technologies and essential digital signal processing, I've navigated the complexities of large application infrastructures and understand how to keep things scalable. While I can still code cleanly and rigorously test in various web languages, what truly sets me apart is my ability to transform ideas into code and user-friendly experiences (UX). I also consider myself a supportive team leader, giving everybody the mindfulness to deliver better output.
+
+I'm eager to bring my wealth of experience and passion for innovation to a new professional challenge. Contact me on linkedin (link below).
 
 ### Shots
 ![alt works](works.png)
