@@ -12,6 +12,8 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/andremichelle/).
 ![alt works](works.png)
 
 ### Sketches
+* [audiotool music browser](https://github.com/andremichelle/compact) | Progressive Music Player offering offline listening capabilities (Based on JSX)
+* [JSX UI Library](https://github.com/andremichelle/jsx) | JSX based ui-library to template layouts and components
 * [tr-909 🔊](https://github.com/andremichelle/tr-909) | Emulated Roland TR-909 drumcomputer 🧨 
 * [malachite audio filter bank 🔊](https://github.com/andremichelle/malachite) | An interative audio eq demo with graphics by [ui mother](https://uimother.com/)
 * [circle modulation 🔊](https://github.com/andremichelle/circle-modulation) | Using circles as parameter modulation source
