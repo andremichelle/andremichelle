@@ -4,9 +4,6 @@ Due to ongoing litigation, I deleted some projects to avoid potential complicati
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/andremichelle/) or write me an [email](mailto:andre.michelle+github@gmail.com).
 
-## Works
-![alt works](works.png)
-
 ### Sketches
 * ~~[audiotool music browser🔊](https://github.com/andremichelle/compact) | Progressive Music Player offering offline listening capabilities (Based on JSX)~~
 * ~~[jet-tsx・UI Library](https://github.com/andremichelle/jet-tsx-launchpad) | TSX based ui-library to template layouts and components~~
