@@ -1,6 +1,6 @@
 ### Hi! It's me, André Michelle
 
-Due to ongoing litigation, I deleted some projects to avoid potential complications. Thank you for your understanding.
+Due to ongoing litigation, I deleted some projects to avoid potential complications.
 
 Contact me on [LinkedIn](https://www.linkedin.com/in/andremichelle/) or write me an [email](mailto:andre.michelle+github@gmail.com).
 
