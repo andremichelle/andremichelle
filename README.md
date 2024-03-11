@@ -20,10 +20,10 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/andremichelle/) or write me
 * [speech scheduler](https://github.com/andremichelle/speech-scheduler) | Use the [web-speech api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) to create spoken turorials with events and user-interaction
 
 ### Vintage Ports
-* [tonematrix 🔊](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix
-* [pulsate 🔊](https://github.com/andremichelle/pulsate) | A soothing audio experiment
-* [tonewheels 🔊](https://github.com/andremichelle/tonewheels) | Wheel based sequencer
-* [radar 🔊](https://github.com/andremichelle/radar) | Webversion of the loop-radar (Flash on the beach 2009)
+* ~~[tonematrix 🔊](https://github.com/andremichelle/tonematrix) | A typescript version of the Tonematrix~~
+* ~~[pulsate 🔊](https://github.com/andremichelle/pulsate) | A soothing audio experiment~~
+* ~~[tonewheels 🔊](https://github.com/andremichelle/tonewheels) | Wheel based sequencer~~
+* ~~[radar 🔊](https://github.com/andremichelle/radar) | Webversion of the loop-radar (Flash on the beach 2009)~~
 
 ### Tooling
 * ~~[FFM | Any Audio-File 2 Wav](https://github.com/andremichelle/ffm)~~
