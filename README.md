@@ -5,6 +5,7 @@
 ### Sketches
 * [malachite audio filter bank 🔊](https://github.com/andremichelle/malachite) | An interative audio eq demo with graphics by [ui mother](https://uimother.com/)
 * [circle modulation 🔊](https://github.com/andremichelle/circle-modulation) | Using circles as parameter modulation source
+* [radar 🔊](https://github.com/andremichelle/radar) | Circular sample player with obstacles
 * [filaments](https://github.com/andremichelle/filaments) | Pretty filaments
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
 * [speech scheduler](https://github.com/andremichelle/speech-scheduler) | Use the [web-speech api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) to create spoken turorials with events and user-interaction
