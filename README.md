@@ -21,6 +21,10 @@
 * [atomix 🕹](https://github.com/andremichelle/atomix) | A repainted web-version of the classic C64 puzzle game Atomix | [Youtube](https://www.youtube.com/watch?v=Tgn_2__t9_Y)
 * [setera 🕹](https://github.com/andremichelle/setara) | A mutliplayer tablet version of [SET](https://en.wikipedia.org/wiki/Set_(card_game))
 
+### Audiotool
+* [compact](https://github.com/andremichelle/compact) | A Mobile Friendly Audiotool Music Navigator
+* [discography](https://github.com/andremichelle/audiotool) | My Audiotool Discography
+
 ### Social
 * [LinkedIn](https://www.linkedin.com/in/andremichelle/)
 * [Instagram](https://www.instagram.com/ndrmch2l/)
