@@ -8,12 +8,14 @@
 * [radar 🔊](https://github.com/andremichelle/radar) | Circular sample player with obstacles
 * [pulsate 🔊](https://github.com/andremichelle/pulsate) | Click to create circles that sequence nice patterns
 * [tonewheels 🔊](https://github.com/andremichelle/tonewheels) | Wheels that trigger notes
+* [rotary 🔊](https://github.com/andremichelle/rotary) | Generation of randomized hud-circles with sound and fx
 * [filaments](https://github.com/andremichelle/filaments) | Pretty filaments
 * [clash](https://github.com/andremichelle/clash) | Physics engine based on dynamic intersection
 * [speech scheduler](https://github.com/andremichelle/speech-scheduler) | Use the [web-speech api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) to create spoken turorials with events and user-interaction
 
 ### Tooling
-* [Web Audio Api | Automator Editor](https://github.com/andremichelle/web-audio-api-automator)
+* [web audio api | automator editor](https://github.com/andremichelle/web-audio-api-automator)
+* [ffm](https://github.com/andremichelle/ffm) | Online ffmpeg converter
 * [Tileset extractor](https://github.com/andremichelle/platforms)
 * [XBM Editor](https://github.com/andremichelle/xbm-editor)
 
