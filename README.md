@@ -2,6 +2,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5Y88S3)
 
+### Current Challenge
+* [openDAW 🔊](https://github.com/andremichelle/openDAW) | A new holistic exploration of music creation inside your browser
+
 ### Sketches
 * [malachite audio filter bank 🔊](https://github.com/andremichelle/malachite) | An interative audio eq demo with graphics by [ui mother](https://uimother.com/)
 * [circle modulation 🔊](https://github.com/andremichelle/circle-modulation) | Using circles as parameter modulation source
