@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5Y88S3)
 
-### Current Challenge
+### Life Challenge
 * [openDAW 🔊](https://github.com/andremichelle/openDAW) | A new holistic exploration of music creation inside your browser
 
 ### Sketches
